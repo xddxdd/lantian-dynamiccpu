@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_presets"
+        android:title="@string/menu_presets" />
+    <item
+        android:id="@+id/main_show_hide_icon"
+        android:title="@string/menu_show_hide_icon" />
+    <item
+        android:id="@+id/main_about"
+        android:title="@string/menu_about">
+        <menu>
+            <item
+                android:id="@+id/main_author"
+                android:title="@string/menu_author" />
+            <item
+                android:id="@+id/main_source"
+                android:title="@string/menu_source" />
+        </menu>
+    </item>
+</menu>

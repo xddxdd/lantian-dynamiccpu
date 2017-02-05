@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LT CPU调频</string>
+    <string name="app_description">为每个应用设置不同的 CPU 频率</string>
+    <string name="ui_root_fail">无法获取 Root 权限！</string>
+    <string name="ui_choose_preset">选择方案（右上角菜单添加方案）</string>
+    <string name="ui_new_name">修改名称</string>
+    <string name="ui_no_delete_default_preset">不能删除默认方案！</string>
+    <string name="ui_remove_preset">删除方案</string>
+    <string name="ui_cpu_id">CPU #</string>
+    <string name="ui_cpu_khz">KHz</string>
+    <string name="ui_choose_cpu_id">选择 CPU #</string>
+    <string name="ui_choose_cpu_id_after">的频率，0 指不去调整（不是关闭这个 CPU）</string>
+    <string name="ui_skip">跳过</string>
+    <string name="menu_presets">方案</string>
+    <string name="menu_show_hide_icon">显示/隐藏图标</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_rename">重命名</string>
+    <string name="menu_remove">删除</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_author">作者：Lan Tian</string>
+    <string name="menu_source">源代码</string>
+    <string name="toast_icon_shown">图标已显示。</string>
+    <string name="toast_icon_hidden">图标已隐藏，通过 Xposed 安装器可以进入。</string>
+    <string name="conf_default">默认</string>
+    <string name="conf_preset">方案 #</string>
+</resources>

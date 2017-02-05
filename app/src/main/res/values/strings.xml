@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LT DynamicCPU</string>
+    <string name="app_description">Dynamic CPU frequency for different apps</string>
+    <string name="ui_root_fail">Failed to get Root access!</string>
+    <string name="ui_choose_preset">Choose preset (Add your own in right-top menu)</string>
+    <string name="ui_new_name">New name</string>
+    <string name="ui_no_delete_default_preset">Cannot delete default preset!</string>
+    <string name="ui_remove_preset">Remove preset</string>
+    <string name="ui_cpu_id">CPU #</string>
+    <string name="ui_cpu_khz">KHz</string>
+    <string name="ui_choose_cpu_id">Choose CPU #</string>
+    <string name="ui_choose_cpu_id_after">Frequency, 0 means won\'t touch (not turn off)</string>
+    <string name="ui_skip">Skip</string>
+    <string name="menu_presets">Presets</string>
+    <string name="menu_show_hide_icon">Show / Hide icon</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_remove">Remove</string>
+    <string name="menu_about">About</string>
+    <string name="menu_author">Author: Lan Tian</string>
+    <string name="menu_source">Source code</string>
+    <string name="toast_icon_shown">Icon shown.</string>
+    <string name="toast_icon_hidden">Icon hidden. You can open this app from Xposed Installer.</string>
+    <string name="conf_default">Default</string>
+    <string name="conf_preset">Preset #</string>
+</resources>
